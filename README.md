@@ -10,3 +10,4 @@ they can be read together.
 - [blendemu](https://github.com/zhangzzk/blendemu) — emulating redshift mixing from blending in lensing n(z)
 - [forklens](https://github.com/zhangzzk/forklens) — deep-learning weak-lensing shear measurement
 - [skyvar](https://github.com/zhangzzk/skyvar) — anisotropic galaxy clustering
+- [SBSI](https://github.com/zhangzzk/sbsi) - simulation-based shear inference
