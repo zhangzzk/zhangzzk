@@ -2,7 +2,7 @@
 
 I work on **photometric galaxy surveys** — weak lensing, shear and redshift
 calibration, galaxy clustering, and the systematics that limit how precisely
-they can be read together.
+they can be read together. Particularly, I love how AI and statistics are involved in these topics.
 
 🌐 **Website:** https://zhangzzk.github.io
 
