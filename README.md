@@ -13,7 +13,7 @@
 </p>
 
 I am a PhD researcher at LMU Munich, finishing in 2027. My projects move between pixels, catalogues, modeling and parameter inference. I build
-image simulations, machine-learning models, and statistical inference.
+image simulations, machine-learning models, and statistical analysis.
 
 I am interested in scientific ML and research roles with simulation,
 systematics, and uncertainty.
