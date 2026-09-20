@@ -2,7 +2,7 @@
   <img src="assets/scientific-ml-banner.png" alt="Scientific machine learning for astronomical images, probabilistic models, and cosmic structure" width="100%">
 </p>
 
-<h1 align="center">Zekang Zhang</h1>
+<!-- <h1 align="center">Zekang Zhang</h1> -->
 
 <p align="center">
   <a href="https://zhangzzk.github.io/">Website</a>
